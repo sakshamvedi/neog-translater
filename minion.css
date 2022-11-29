@@ -51,4 +51,5 @@ button{
   border-radius: 25px;
   margin-top: 25px;
   margin-left: 43%;
+  cursor:pointer;
 }
